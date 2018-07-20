@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>腾隆钾业官方网站</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+
+<body>
+	<!--这里是顶部-->
+	<div class="top">
+		<div class="wrap">
+			<div class="logo"><a href="index.html"><img src="images/logo.png" alt="LOGO"/></a></div>
+			<div class="tel">
+				<p>EN&nbsp;&nbsp;|&nbsp;&nbsp;收藏本站&nbsp;&nbsp;|&nbsp;&nbsp;企业邮箱</p>
+				<p>咨询电话：400-8888-8888</p>
+			</div>
+		</div>
+	</div>
+	
+	
+	<!--导航条-->
+	<div class="nav">
+		<ul class="nav_List">
+			<li><a href="index.html" >首页</a></li>
+			<li><a href="#">关于恒杰</a></li>
+			<li><a href="#">产品中心</a></li>
+			<li><a href="#">新闻资讯</a></li>
+			<li><a href="#">视频中心</a></li>
+			<li><a href="#">技术实力</a></li>
+			<li><a href="#">服务中心</a></li>
+			<li><a href="#">人力资源</a></li>
+			<li><a href="#">联系我们</a></li>
+		</ul>
+	</div>
+	
+	
+	<!--Banner区域-->
+	<div class="banner wrap"></div>
+	
+	
+	<!--产品展示-->
+	<div class="prod">
+		<div class="title">
+			<h3>产品展示</h3>
+			<p>product display</p>
+		</div>
+		<div>
+			<ul>
+				<li><a href="">
+					<div class="prod_Card">
+						<img src="images/pro1.jpg" alt="氯化钾">
+						<h4>氯化钾</h4>
+						<p>主要用于无机工业，是制造各种钾盐或碱如氢氧化钾、硫酸钾、硝酸钾、氯酸钾、红矾钾等的基...</p>
+					</div>
+				</a></li>
+				<li><a href="">
+					<div class="prod_Card">
+						<img src="images/pro1.jpg" alt="氯化钾">
+						<h4>氯化钾</h4>
+						<p>主要用于无机工业，是制造各种钾盐或碱如氢氧化钾、硫酸钾、硝酸钾、氯酸钾、红矾钾等的基...</p>
+					</div>
+				</a></li>
+				<li class="no_Margin"><a href="">
+					<div class="prod_Card">
+						<img src="images/pro1.jpg" alt="氯化钾">
+						<h4>氯化钾</h4>
+						<p>主要用于无机工业，是制造各种钾盐或碱如氢氧化钾、硫酸钾、硝酸钾、氯酸钾、红矾钾等的基...</p>
+					</div>
+				</a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	
+	<!--新闻动态-->
+	<div class="news"></div>
+	
+	
+	<!--关于-->
+	<div class="about wrap"></div>
+	
+	
+	<!--版权信息-->
+	<div class="footer wrap"></div>
+	
+	
+</body>
+</html>
